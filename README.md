@@ -1,1 +1,1 @@
-Small project in JavaFX [using Youtube API] allowing to watch video from Youtube
+Small project in JavaFX [using Youtube API] allowing to watch videos from Youtube
